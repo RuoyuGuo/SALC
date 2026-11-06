@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+pretrained/
+data/
+work_dirs*/
+*.pth
+*.pt
+*.ckpt
+*.log
+*.log.json
