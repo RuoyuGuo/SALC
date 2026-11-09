@@ -11,7 +11,7 @@ University of New South Wales
 
 **NeurIPS 2026**
 
-[![NeurIPS](https://img.shields.io/badge/NeurIPS-2026-blue)](https://arxiv.org/abs/2610.15660)
+[![NeurIPS](https://img.shields.io/badge/NeurIPS-2026-blue)](https://neurips.cc/virtual/2026/loc/sydney/poster/153049)
 [![arXiv](https://img.shields.io/badge/arXiv-2610.15660-b31b1b.svg)](https://arxiv.org/abs/2610.15660)
 [![Weights](https://img.shields.io/badge/Weights-SALC-green)](#checkpoints)
 
